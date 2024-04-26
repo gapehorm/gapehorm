@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm owcw</h1>
 <h3 align="center">I'm a very passionate developer and am always looking for new challenges.</h3>
-<img align="right" alt="Coding" width="400" src="https://images-platform.99static.com/ZGWMPGt5Yll4-wKR0grdDrFuLv8=/500x500/top/smart/99designs-contests-attachments/49/49133/attachment_49133556">
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif">
 
 
 - 🌱 I’m currently learning **Haskell**
